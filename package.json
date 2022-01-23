@@ -1,0 +1,11 @@
+{
+  "name": "typescript-template-v2",
+  "version": "1.0.0",
+  "description": "Version 2 of a typscript node express template",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Will Constable",
+  "license": "ISC"
+}
